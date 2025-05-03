@@ -1,7 +1,7 @@
 # Отчёт по домашнему заданию «Conditional GAN»
 
 **Ссылка на ноутбук с полным кодом и экспериментами:**  
-https://www.kaggle.com/ваш_логин/conditional-gan-homework
+[Ссылка на ноутбук](https://colab.research.google.com/drive/1BvP7YA8aWoTWxW15nMarlER75slILstE?usp=sharing)
 
 ---
 
@@ -47,7 +47,7 @@ https://www.kaggle.com/ваш_логин/conditional-gan-homework
 
 ### 4.1. Графики потерь
 
-![Generator vs Discriminator Loss Comparison][loss_plot]
+![Generator vs Discriminator Loss Comparison](./losses.png)
 
 > **Рис.1**. Слева — `Generator Loss` по эпохам для трёх инициализаций.  
 > Справа — `Discriminator Loss` для тех же режимов.
@@ -71,6 +71,9 @@ https://www.kaggle.com/ваш_логин/conditional-gan-homework
 
 **Итог:**  
 лучшей инициализацией признана **Xavier**: она даёт плавную сходимость обеих сетей без mode-collapse и взрывов градиента.
+
+🖼️ *Рехультат генерации:*
+![Generated_Results](./screenshots/generated_results.png)
 
 ---
 
