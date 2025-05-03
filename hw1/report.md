@@ -47,7 +47,7 @@
 
 ### 4.1. Графики потерь
 
-![Generator vs Discriminator Loss Comparison](./losses.png)
+![Generator vs Discriminator Loss Comparison](./screenshots/losses.png)
 
 > **Рис.1**. Слева — `Generator Loss` по эпохам для трёх инициализаций.  
 > Справа — `Discriminator Loss` для тех же режимов.
