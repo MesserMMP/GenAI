@@ -3,7 +3,7 @@
 
 **Ноутбук с кодом и комментариями:**
 
-[Открыть в Google Colab]()
+[Открыть в Kaggle](https://www.kaggle.com/code/messermmp/mts-hw3-panasiuk)
 
 ---
 
